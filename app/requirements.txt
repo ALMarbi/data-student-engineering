@@ -1,0 +1,5 @@
+# MongoDB connector
+pymongo>=4.10,<5
+
+# No external package is required for the local HTTP API;
+# it uses Python standard-library http.server and urllib.

@@ -1,0 +1,5 @@
+﻿student_id,student_name,city,courses_count,average_score,university_rank,city_rank,difference_from_average,performance_level
+STU002,Sara Mohammed,Dhamar,2,95.33,1,1,7.83,Excellent
+STU004,Noura Salem,Sanaa,2,92.67,2,1,5.17,Excellent
+STU001,Ahmed Ali,Sanaa,2,88.0,3,2,0.5,Very Good
+STU003,Omar Hassan,Taiz,1,74.0,4,1,-13.5,Good
